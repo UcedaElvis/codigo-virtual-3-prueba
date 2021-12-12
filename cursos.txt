@@ -1,2 +1,4 @@
 - Git y GitHub
 - Angular 9
+- React JS
+- Sass
